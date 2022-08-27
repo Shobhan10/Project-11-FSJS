@@ -12,7 +12,7 @@ Hi 👋 I am Shobhan Sundar Goutam. This project is made with the help of `HTML`
   - Learned to use flexbox more and how to use it precisely in responsiveness of the website.
   - Learned to use other css properties for creating responsivenss of the website.
 
-- It took around _12 hours_ to complete.
+- It took around _15 hours_ to complete.
 
 - Live Link:- [Hosting Service Website](https://hostingservice-fsjs11.netlify.app/)
 
